@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AID"]
+	path = AID
+	url = https://github.com/cran/AID
+	shallow = true
+	registered = true
+[submodule "GMDH2"]
+	path = GMDH2
+	url = https://github.com/cran/GMDH2
+	shallow = true
+	registered = true
+[submodule "onewaytests"]
+	path = onewaytests
+	url = https://github.com/cran/onewaytests
+	shallow = true
+	registered = true
+[submodule "twowaytests"]
+	path = twowaytests
+	url = https://github.com/cran/twowaytests
+	shallow = true
+	registered = true
