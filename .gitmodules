@@ -18,6 +18,11 @@
 	url = https://github.com/cran/onewaytests
 	shallow = true
 	registered = true
+[submodule "Transform"]
+	path = Transform
+	url = https://github.com/cran/Transform
+	shallow = true
+	registered = true
 [submodule "twowaytests"]
 	path = twowaytests
 	url = https://github.com/cran/twowaytests
