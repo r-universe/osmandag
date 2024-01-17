@@ -8,6 +8,9 @@
 [submodule "GMDH2"]
 	path = GMDH2
 	url = https://github.com/cran/GMDH2
+[submodule "SurvivalTests"]
+	path = SurvivalTests
+	url = https://github.com/cran/SurvivalTests
 [submodule "Transform"]
 	path = Transform
 	url = https://github.com/cran/Transform
