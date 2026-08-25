@@ -20,6 +20,3 @@
 [submodule "twowaytests"]
 	path = twowaytests
 	url = https://github.com/cran/twowaytests
-[submodule "vartest"]
-	path = vartest
-	url = https://github.com/cran/vartest
